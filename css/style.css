@@ -1,0 +1,37 @@
+.buttons{
+  background-color: #4CAF50; /* Green */
+  border: none;
+  border-radius: 10px;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  font-size: 32px;
+  font-family: 'Courier New', Courier, monospace;
+  box-sizing:border-box;
+  width: 350px;
+  height : 270px;
+}
+.buttons:hover {opacity: 0.7}
+
+.btn1{background-color:darkorange;}
+.btn2{background-color: green;}
+.btn3{background-color: indigo;}
+.btn4{background-color: blueviolet;}
+.btn5{background-color: rgb(76, 172, 167);}
+.btn6{background-color: firebrick;}
+
+.formheight{
+    height: 200px;
+}
+
+body{
+  font-family:'Courier New', Courier, monospace
+}
+head{
+  font-family: 'Courier New', Courier, monospace;
+}
